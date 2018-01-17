@@ -1,0 +1,1 @@
+exports.gulpDefault = input => gulp.src(input).pipe($.plumber()).pipe($.livereload())
