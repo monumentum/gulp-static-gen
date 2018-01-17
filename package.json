@@ -41,6 +41,6 @@
     "st": "^1.2.2"
   },
   "peerDependencies": {
-    "gulp": "^3.X",
+    "gulp": "^3.X"
   }
 }
