@@ -1,6 +1,6 @@
 {
   "name": "gulp-static-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple gulp pre-defined tasks to improve your static site development",
   "main": "index.js",
   "scripts": {
